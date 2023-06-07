@@ -20,7 +20,7 @@
 
 * **Cocktail Page** - On the individual cocktail page, they receive more information about that specific cocktail including: the cocktail image, name, category, info (alcoholic or not), instructions on how to prepare the cocktail, and a list of ingredients.
 
-### `npm run eject`
+* **Back Home** - At the top of the "Details Page" there is a clickable button labeled "Back Home" which when clicked by the user will take the user back to the "Home" page to enable them to start over and create another search from the search form text input bar.
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
