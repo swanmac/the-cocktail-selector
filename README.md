@@ -36,9 +36,10 @@
 
 * Link to the API => [https://www.thecocktaildb.com/api/json/v1/1/search.php?s=]
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Project WireFrames
+<img src="cocktail-selector/images/prh.png" alt="Wireframe-Home">
+<img src="cocktail-selector/images/p2d.png" alt="Wireframe-Details">
+<img src="cocktail-selector/images/p2a.png" alt="Wireframe-About">
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
