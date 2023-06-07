@@ -2,9 +2,7 @@
 
 ## A website to help educate the user to make an informed decision on cocktail selection.
 
-## Available Script
-
-In the project directory, you can run:
+* **_The Cocktail Selector_** is a website that provides detailed information on a list of different cocktails enabling the user to make an informed decision when choosing a cocktail. 
 
 ### `npm start`
 
