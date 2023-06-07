@@ -1,6 +1,6 @@
 # Cocktail_Selector
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## A website to help educate the user to make an informed decision on cocktail selection.
 
 ## Available Script
 
