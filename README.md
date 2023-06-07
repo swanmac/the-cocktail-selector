@@ -10,8 +10,7 @@
 
 * To start, you can take one of two actions.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* **Action one:** Enter the first or one of the letters in the name of your favorite cocktail into the search form text input bar. The search results will automatically display below in the list of cocktails.
 
 ### `npm run build`
 
