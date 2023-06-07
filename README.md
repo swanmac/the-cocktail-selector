@@ -12,7 +12,7 @@
 
 * **Action one:** Enter the first or one of the letters in the name of your favorite cocktail into the search form text input bar. The search results will automatically display below in the list of cocktails.
 
-### `npm run build`
+* After taking Action one, you will be shown either a group of cocktails or one cocktail matching your search of cocktails that their name contains the letter or letters that you have entered into the search form text input bar. At this point you may choose one of the cocktails displayed in the search results and then select the "Details" button on that specific cocktail.
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
