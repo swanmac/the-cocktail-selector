@@ -18,7 +18,7 @@
 
 * **Details Page** - When a user clicks on the "Details" button on an individual cocktail, they are taken to a page that displays that specific individual cocktail page.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* **Cocktail Page** - On the individual cocktail page, they receive more information about that specific cocktail including: the cocktail image, name, category, info (alcoholic or not), instructions on how to prepare the cocktail, and a list of ingredients.
 
 ### `npm run eject`
 
