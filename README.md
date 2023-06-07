@@ -34,6 +34,7 @@
   * Details Page [https://wireframe.cc/A6vBAf]  
   * About Page [https://wireframe.cc/qcDDDj]
 
+# Link to API
 * Link to the API => [https://www.thecocktaildb.com/api/json/v1/1/search.php?s=]
 
 # Link to Deployed Application
