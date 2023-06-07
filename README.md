@@ -36,12 +36,9 @@
 
 * Link to the API => [https://www.thecocktaildb.com/api/json/v1/1/search.php?s=]
 
-# Project WireFrames
-<img src="cocktail-selector/images/prh.png" alt="Wireframe-Home">
-<img src="cocktail-selector/images/p2d.png" alt="Wireframe-Details">
-<img src="cocktail-selector/images/p2a.png" alt="Wireframe-About">
+# Link to Deployed Application
 
-* Link to the Deployed Page => [https://the-cocktail-selector.netlify.app/]
+* Link to the Deployed App => [https://the-cocktail-selector.netlify.app/]
 
 
 
