@@ -16,8 +16,7 @@
 
 * **Action two:** Scroll down the page and select the "Details" button on any of the cocktails that are already displayed.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* **Details Page** - When a user clicks on the "Details" button on an individual cocktail, they are taken to a page that displays that specific individual cocktail page.
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
