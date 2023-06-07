@@ -4,10 +4,7 @@
 
 * **_The Cocktail Selector_** is a website that provides detailed information on a list of different cocktails enabling the user to make an informed decision when choosing a cocktail. 
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **The Layout** - Navigation links at the top of the page are to "Home" the Home page and "About" the About page. Below the navigation links is the Search Form. The Search Form is labeled "Search Your Favorite Cocktail" and contains a text input bar and a Start Over button.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
