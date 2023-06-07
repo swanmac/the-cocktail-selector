@@ -8,7 +8,7 @@
 
 * **Search Form** - The search form allows the user to select a single or group of cocktails by entering the first or one of the letters in the name of the cocktail into the text input bar. The Start Over button is used to reset the search form or start over.
 
-### `npm test`
+* To start, you can take one of two actions.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
