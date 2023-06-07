@@ -22,7 +22,7 @@
 
 * **Back Home** - At the top of the "Details Page" there is a clickable button labeled "Back Home" which when clicked by the user will take the user back to the "Home" page to enable them to start over and create another search from the search form text input bar.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* **About Page** - The About Page is on a clickable Navigation link in the header. When a user clicks the "About" link in the navigation bar, they are taken to the "About Us" page which has a short paragraph welcoming the visitor to the website and explaining how to use the site.
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
